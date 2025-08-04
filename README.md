@@ -1,5 +1,12 @@
 # 🤖 Multi-Tool AI Agent
 
+## 👋 About Me
+I'm an AI Engineer passionate about building multi-tool AI agents and scalable RAG pipelines.  
+Currently exploring opportunities to contribute to cutting-edge AI agent frameworks and infrastructure.
+
+---
+
+## 🚀 Project Overview
 A multi-functional intelligent agent powered by **ChatGPT**, designed to handle:
 
 - 💬 **General conversation**  
@@ -101,3 +108,6 @@ ai-agent-multitool/
 
 ## 📄 Resume
 You can download my latest resume here: [AmandaChan_Resume.pdf](./AmandaChan_Resume.pdf)
+
+## 📬 Contact
+- Email: [amandachan.tech@gmail.com](mailto:amandachan.tech@gmail.com)
