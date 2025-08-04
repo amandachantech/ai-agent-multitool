@@ -97,3 +97,7 @@ ai-agent-multitool/
 - 🔹 Session export/import  
 - 🔹 Deployment to cloud platforms (Streamlit Sharing / Docker)
 
+---
+
+## 📄 Resume
+You can download my latest resume here: [AmandaChan_Resume.pdf](./AmandaChan_Resume.pdf)
