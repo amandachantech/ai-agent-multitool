@@ -1,9 +1,5 @@
 # 🤖 Multi-Tool AI Agent
 
-## 👋 About Me
-I'm an AI Engineer passionate about building multi-tool AI agents and scalable RAG pipelines.  
-Currently exploring opportunities to contribute to cutting-edge AI agent frameworks and infrastructure.
-
 ## 🚀 Project Overview
 A **Streamlit** + **LangChain** based intelligent multi-tool AI Agent that automatically picks the right tool based on your query.  
 It integrates three core features in a single **web app**:
@@ -87,6 +83,9 @@ Open browser at [http://localhost:8501](http://localhost:8501)
 - Deploy on Streamlit Cloud or Docker
 
 ---
+## 👋 About Me
+I'm an AI Engineer passionate about building multi-tool AI agents and scalable RAG pipelines.  
+Currently exploring opportunities to contribute to cutting-edge AI agent frameworks and infrastructure.
 
 ## 📄 Resume
 You can download my latest resume here: [AmandaChan_Resume.pdf](./AmandaChan_Resume.pdf)
